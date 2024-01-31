@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { signOut } from "firebase/auth";
-import { auth } from "../firebase"; 
+
 import '../Style/App.css'; 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faRightFromBracket} from '@fortawesome/free-solid-svg-icons';
