@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Morpho/static/css/main.9b3af3fc.css",
+    "main.js": "/Morpho/static/js/main.86eb416e.js",
+    "static/js/787.7af9ba7f.chunk.js": "/Morpho/static/js/787.7af9ba7f.chunk.js",
+    "static/media/aurora-bk.jpeg": "/Morpho/static/media/aurora-bk.a1718dd50e66377a5d46.jpeg",
+    "static/media/postcard.jpeg": "/Morpho/static/media/postcard.0cceaddb81588c4c0177.jpeg",
+    "static/media/flyers.jpeg": "/Morpho/static/media/flyers.44cf6e86eb625623018e.jpeg",
+    "static/media/businesscard.jpeg": "/Morpho/static/media/businesscard.4ab29bb7a2f5fdb24875.jpeg",
+    "static/media/brochure.jpeg": "/Morpho/static/media/brochure.e745f66f2600415c73f8.jpeg",
+    "static/media/carlos.jpeg": "/Morpho/static/media/carlos.f9b8f893a1b8dac15be0.jpeg",
+    "static/media/Background.jpeg": "/Morpho/static/media/Background.ac61a59925f8f5792a35.jpeg",
+    "static/media/sticker.jpeg": "/Morpho/static/media/sticker.8a2a0cc82241d63eae6a.jpeg",
+    "static/media/envelope.jpeg": "/Morpho/static/media/envelope.c30bd113965f860fa125.jpeg",
+    "static/media/Aurora-Logo.png": "/Morpho/static/media/Aurora-Logo.c3512ec8323af47f89fb.png",
+    "static/media/camera.png": "/Morpho/static/media/camera.4ac3169030870a574502.png",
+    "static/media/sloth.png": "/Morpho/static/media/sloth.c2d9b8cb8252f2e04283.png",
+    "static/media/user.png": "/Morpho/static/media/user.420cb201ff948af72b89.png",
+    "static/media/remove.png": "/Morpho/static/media/remove.3f50bacec480b251e3fd.png",
+    "index.html": "/Morpho/index.html",
+    "main.9b3af3fc.css.map": "/Morpho/static/css/main.9b3af3fc.css.map",
+    "main.86eb416e.js.map": "/Morpho/static/js/main.86eb416e.js.map",
+    "787.7af9ba7f.chunk.js.map": "/Morpho/static/js/787.7af9ba7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b3af3fc.css",
+    "static/js/main.86eb416e.js"
+  ]
+}
