@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Morpho/static/css/main.9b3af3fc.css",
-    "main.js": "/Morpho/static/js/main.0b7bdfc6.js",
+    "main.js": "/Morpho/static/js/main.44d9717e.js",
     "static/js/787.7af9ba7f.chunk.js": "/Morpho/static/js/787.7af9ba7f.chunk.js",
     "static/media/aurora-bk.jpeg": "/Morpho/static/media/aurora-bk.a1718dd50e66377a5d46.jpeg",
     "static/media/postcard.jpeg": "/Morpho/static/media/postcard.0cceaddb81588c4c0177.jpeg",
@@ -12,18 +12,18 @@
     "static/media/Background.jpeg": "/Morpho/static/media/Background.ac61a59925f8f5792a35.jpeg",
     "static/media/sticker.jpeg": "/Morpho/static/media/sticker.8a2a0cc82241d63eae6a.jpeg",
     "static/media/envelope.jpeg": "/Morpho/static/media/envelope.c30bd113965f860fa125.jpeg",
-    "static/media/Aurora-Logo.png": "/Morpho/static/media/Aurora-Logo.c3512ec8323af47f89fb.png",
+    "static/media/Aurora-Logo.png": "/Morpho/static/media/Aurora-Logo.726692c6ed1b88ebbc1d.png",
     "static/media/camera.png": "/Morpho/static/media/camera.4ac3169030870a574502.png",
     "static/media/sloth.png": "/Morpho/static/media/sloth.c2d9b8cb8252f2e04283.png",
     "static/media/user.png": "/Morpho/static/media/user.420cb201ff948af72b89.png",
     "static/media/remove.png": "/Morpho/static/media/remove.3f50bacec480b251e3fd.png",
     "index.html": "/Morpho/index.html",
     "main.9b3af3fc.css.map": "/Morpho/static/css/main.9b3af3fc.css.map",
-    "main.0b7bdfc6.js.map": "/Morpho/static/js/main.0b7bdfc6.js.map",
+    "main.44d9717e.js.map": "/Morpho/static/js/main.44d9717e.js.map",
     "787.7af9ba7f.chunk.js.map": "/Morpho/static/js/787.7af9ba7f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b3af3fc.css",
-    "static/js/main.0b7bdfc6.js"
+    "static/js/main.44d9717e.js"
   ]
 }
