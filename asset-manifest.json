@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Morpho/static/css/main.9b3af3fc.css",
-    "main.js": "/Morpho/static/js/main.86eb416e.js",
+    "main.js": "/Morpho/static/js/main.0b7bdfc6.js",
     "static/js/787.7af9ba7f.chunk.js": "/Morpho/static/js/787.7af9ba7f.chunk.js",
     "static/media/aurora-bk.jpeg": "/Morpho/static/media/aurora-bk.a1718dd50e66377a5d46.jpeg",
     "static/media/postcard.jpeg": "/Morpho/static/media/postcard.0cceaddb81588c4c0177.jpeg",
@@ -19,11 +19,11 @@
     "static/media/remove.png": "/Morpho/static/media/remove.3f50bacec480b251e3fd.png",
     "index.html": "/Morpho/index.html",
     "main.9b3af3fc.css.map": "/Morpho/static/css/main.9b3af3fc.css.map",
-    "main.86eb416e.js.map": "/Morpho/static/js/main.86eb416e.js.map",
+    "main.0b7bdfc6.js.map": "/Morpho/static/js/main.0b7bdfc6.js.map",
     "787.7af9ba7f.chunk.js.map": "/Morpho/static/js/787.7af9ba7f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b3af3fc.css",
-    "static/js/main.86eb416e.js"
+    "static/js/main.0b7bdfc6.js"
   ]
 }
