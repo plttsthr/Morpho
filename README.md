@@ -2,11 +2,6 @@ The Morpho project webpage features a dynamic interface for a print-related appl
 
 You can view and interact with the Morpho project [here](https://plttsthr.github.io/Morpho/).
 
-### README for Morpho
-
-```markdown
-# Morpho
-
 ## Overview
 Morpho is an interactive web application designed to facilitate custom print designs. Leveraging modern web technologies, Morpho offers a seamless and engaging user experience for designing and previewing print projects.
 
